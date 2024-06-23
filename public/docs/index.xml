@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentation on The Gardening Bunny</title>
-    <link>//localhost:1313/docs/</link>
+    <link>/docs/</link>
     <description>Recent content in Documentation on The Gardening Bunny</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Jun 2024 14:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perennials</title>
-      <link>//localhost:1313/docs/perennials/</link>
+      <link>/docs/perennials/</link>
       <pubDate>Wed, 05 Jun 2024 14:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/perennials/</guid>
+      <guid>/docs/perennials/</guid>
       <description>&lt;p&gt;Perennial plants are a fascinating category in the botanical world, known for their ability to live for more than two years, often regrowing season after season from the same roots.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Annuals</title>
-      <link>//localhost:1313/docs/annuals/</link>
+      <link>/docs/annuals/</link>
       <pubDate>Sat, 08 Jun 2024 14:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/annuals/</guid>
+      <guid>/docs/annuals/</guid>
       <description>&lt;p&gt;Annual plants are a vibrant and integral part of the botanical world, known for completing their entire life cycle within a single growing season.&lt;/p&gt;</description>
     </item>
   </channel>

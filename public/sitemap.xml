@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/docs/perennials/</loc>
+    <loc>/docs/perennials/</loc>
     <lastmod>2024-06-05T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/docs/annuals/</loc>
+    <loc>/docs/annuals/</loc>
     <lastmod>2024-06-08T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2024-06-21T19:22:20-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/hostas/</loc>
+    <loc>/post/hostas/</loc>
     <lastmod>2024-06-21T19:22:20-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/perennial/</loc>
+    <loc>/tags/perennial/</loc>
     <lastmod>2024-06-21T19:22:20-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/perennial/</loc>
+    <loc>/categories/perennial/</loc>
     <lastmod>2024-06-21T19:22:20-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2024-06-21T19:22:20-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/shrubs/</loc>
+    <loc>/tags/shrubs/</loc>
     <lastmod>2024-06-21T19:22:20-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/shrubs/</loc>
+    <loc>/categories/shrubs/</loc>
     <lastmod>2024-06-21T19:22:20-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-06-21T19:22:20-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2024-06-21T19:22:20-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/flowering/</loc>
+    <loc>/tags/flowering/</loc>
     <lastmod>2024-06-20T19:22:20-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/limelights/</loc>
+    <loc>/post/limelights/</loc>
     <lastmod>2024-06-20T19:22:20-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/ornamental/</loc>
+    <loc>/tags/ornamental/</loc>
     <lastmod>2024-06-20T19:22:20-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/pugster/</loc>
+    <loc>/post/pugster/</loc>
     <lastmod>2024-06-19T19:22:20-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/eclipse/</loc>
+    <loc>/post/eclipse/</loc>
     <lastmod>2024-06-18T16:22:10-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2024-06-10T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/annuals/</loc>
+    <loc>/tags/annuals/</loc>
     <lastmod>2024-06-08T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/docs/</loc>
+    <loc>/docs/</loc>
     <lastmod>2024-06-08T14:00:00+00:00</lastmod>
   </url>
 </urlset>
