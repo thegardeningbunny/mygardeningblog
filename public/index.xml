@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Gardening Bunny</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on The Gardening Bunny</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jun 2024 19:22:20 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perennials</title>
+      <link>//localhost:1313/docs/perennials/</link>
+      <pubDate>Wed, 05 Jun 2024 14:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/perennials/</guid>
+      <description>&lt;p&gt;Perennial plants are a fascinating category in the botanical world, known for their ability to live for more than two years, often regrowing season after season from the same roots.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Annuals</title>
+      <link>//localhost:1313/docs/annuals/</link>
+      <pubDate>Sat, 08 Jun 2024 14:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/annuals/</guid>
+      <description>&lt;p&gt;Annual plants are a vibrant and integral part of the botanical world, known for completing their entire life cycle within a single growing season.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hostas</title>
+      <link>//localhost:1313/post/hostas/</link>
+      <pubDate>Fri, 21 Jun 2024 19:22:20 -0400</pubDate>
+      <guid>//localhost:1313/post/hostas/</guid>
+      <description>Hostas Hostas are beloved for their lush foliage and ease of cultivation, making them a popular choice for gardeners seeking to add texture and vibrancy to shaded areas. These herbaceous perennials are renowned for their wide variety of leaf shapes, sizes, and colors, ranging from bold greens to striking variegations of white, cream, and gold. Hostas thrive in moist, well-drained soil and prefer partial to full shade, although some varieties can tolerate more sun with adequate moisture.</description>
+    </item>
+    <item>
+      <title>Limelights</title>
+      <link>//localhost:1313/post/limelights/</link>
+      <pubDate>Thu, 20 Jun 2024 19:22:20 -0400</pubDate>
+      <guid>//localhost:1313/post/limelights/</guid>
+      <description>Growing Limelight Hydrangeas Limelight hydrangeas (Hydrangea paniculata &amp;lsquo;Limelight&amp;rsquo;) are a stunning addition to any garden, renowned for their vibrant lime-green blossoms that command attention throughout the summer and into the fall.&#xA;These hardy deciduous shrubs boast large, cone-shaped flower heads that gradually transition from a creamy white in early summer to a dazzling lime-green hue as the season progresses. As autumn approaches, Limelight hydrangeas undergo yet another transformation, turning shades of pink, burgundy, and deep red, adding a spectacular finale to the garden landscape.</description>
+    </item>
+    <item>
+      <title>Pugster Butterfly Bushes</title>
+      <link>//localhost:1313/post/pugster/</link>
+      <pubDate>Wed, 19 Jun 2024 19:22:20 -0400</pubDate>
+      <guid>//localhost:1313/post/pugster/</guid>
+      <description>Pugster butterfly bushes (Buddleja) are a compact and ornamental addition to gardens, prized for their prolific blooms and attractive features. Unlike traditional butterfly bushes that can grow quite large, Pugster varieties, such as Pugster Blue and Pugster Periwinkle, are specifically bred to maintain a compact and bushy habit, making them ideal for smaller gardens, borders, and containers. Their compact size typically ranges from 2 to 3 feet tall and wide, offering a manageable yet impactful presence in landscapes.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 10 Jun 2024 14:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>Welcome to The Gardening Bunny This is our gardening sanctuary, where every seed planted is a promise of growth and beauty. At The Gardening Bunny, we cultivate more than just plants; we nurture a community of passionate gardeners eager to share tips, tricks, and the joy of cultivating nature&amp;rsquo;s bounty. Whether you&amp;rsquo;re a seasoned green thumb or a budding enthusiast, our blog is your companion on the journey to greener pastures.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annuals on The Gardening Bunny</title>
+    <link>//localhost:1313/tags/annuals/</link>
+    <description>Recent content in Annuals on The Gardening Bunny</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jun 2024 14:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/annuals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Annuals</title>
+      <link>//localhost:1313/docs/annuals/</link>
+      <pubDate>Sat, 08 Jun 2024 14:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/annuals/</guid>
+      <description>&lt;p&gt;Annual plants are a vibrant and integral part of the botanical world, known for completing their entire life cycle within a single growing season.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
